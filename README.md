@@ -32,10 +32,4 @@ The system continuously monitors soil conditions and nutrient values and provide
 
 ---
 
-## **Files**
-
-* **Main.ino** – Main Arduino sketch file that reads Soil Moisture and NPK values and sends them to Arduino IoT Cloud.
-* **thingProperties.h** – Auto-generated file from Arduino IoT Cloud used for network configuration and cloud variables.
-* **ReadMe.adoc** – Project description and documentation file.
-* **layout.png** – Circuit diagram of the project (if included).
 
