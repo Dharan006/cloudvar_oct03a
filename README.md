@@ -31,5 +31,3 @@ The system continuously monitors soil conditions and nutrient values and provide
 * ESP32 Board Package
 
 ---
-
-
